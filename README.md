@@ -1,2 +1,5 @@
 # DHMM
-Disentangle Heterogeneous Modal Mapping for Interacting Hand Pose Estimation
+Official Implementation of Disentangle Heterogeneous Modal Mapping for Interacting Hand Pose Estimation 
+Coming soon.
+
+
